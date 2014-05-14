@@ -1,0 +1,8 @@
+<library path="librviz_fixed_view_controller">
+  <class name="rviz_fixed_view_controller/Fixed"
+         type="rviz_fixed_view_controller::FixedViewController"
+         base_class_type="rviz::ViewController">
+    <description>
+      A view controller that simply follows a TF frame.
+    </description>
+</library>
